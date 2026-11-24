@@ -243,8 +243,8 @@ Akash Goswami
 AI & Machine Learning Developer
 
 - GitHub: https://github.com/piyush-raj-05
-- LinkedIn: https://www.linkedin.com/in/akashgoswami-/
-- X: https://x.com/akashgoswami144
+- LinkedIn: https://www.linkedin.com/in/piyush-raj-b1a193297/
+- X: https://x.com/piyushrajankit
 
 ## 📄 License
 
