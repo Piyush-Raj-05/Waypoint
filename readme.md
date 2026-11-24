@@ -1,8 +1,8 @@
-# ResearchFlow AI 🧭
+# Waypoint 🧭
 
 ### Enterprise Multi-Agent AI Research Assistant
 
-ResearchFlow AI is a multi-agent research assistant that automates the research workflow from web discovery → source reading → report generation → quality review.
+Waypoint is a multi-agent research assistant that automates the research workflow from web discovery → source reading → report generation → quality review.
 
 The application uses specialized AI agents to search trusted web sources, extract useful information, generate a structured research report, and evaluate the final output.
 
