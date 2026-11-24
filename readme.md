@@ -8,7 +8,7 @@ The application uses specialized AI agents to search trusted web sources, extrac
 
 ## 🚀 Live Demo
 
-👉 (https://waypoint-piyush.streamlit.app/)
+👉 https://waypoint-piyush.streamlit.app/
 
 ## ✨ Features
 
@@ -145,7 +145,7 @@ requirements.txt | Python dependencies
 
 ### 1. Clone the repository
 
-git clone https://github.com/akashgoswami139/ResearchFlow-AI.git
+git clone https://waypoint-piyush.streamlit.app/
 cd ResearchFlow-AI
 
 ### 2. Create a virtual environment
@@ -185,7 +185,7 @@ The application will be available at the local Streamlit URL shown in the termin
 
 The project is deployed on Streamlit Cloud:
 
-👉 https://researchflow-ai-akash.streamlit.app/
+👉 https://waypoint-piyush.streamlit.app/
 
 When the Streamlit app is connected to the GitHub repository, updates to the deployed branch can trigger a new deployment.
 
@@ -242,7 +242,7 @@ Akash Goswami
 
 AI & Machine Learning Developer
 
-- GitHub: https://github.com/akashgoswami139
+- GitHub: https://github.com/piyush-raj-05
 - LinkedIn: https://www.linkedin.com/in/akashgoswami-/
 - X: https://x.com/akashgoswami144
 
