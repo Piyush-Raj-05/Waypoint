@@ -8,7 +8,7 @@ The application uses specialized AI agents to search trusted web sources, extrac
 
 ## 🚀 Live Demo
 
-👉 https://researchflow-ai-akash.streamlit.app/
+👉 (https://waypoint-piyush.streamlit.app/)
 
 ## ✨ Features
 
